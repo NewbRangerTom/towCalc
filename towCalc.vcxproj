@@ -143,8 +143,8 @@
     <ClCompile Include="towCalcFunc.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vars.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="vars.h" />
     <ClInclude Include="towCalcFunc.h" />
   </ItemGroup>
   <ItemGroup>

@@ -26,10 +26,10 @@
     <ClInclude Include="towCalcFunc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="vars.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="vars.h">
+    <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

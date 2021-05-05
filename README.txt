@@ -5,13 +5,5 @@ your vehicles owner manual, and any additional information you obtain from the m
 
 ****************************************************************************************************
 
-finished calculating:
-curb weight
-towing capacity
-total payload without trailer
-total payload with trailer
-payload leftover
-
-need to complete:
-GCWR and Tow Capacity
-RV GVWR
+Needs more legal disclaimers to prevent any adverse legal actions because someone didn't double check
+their weight limits.
