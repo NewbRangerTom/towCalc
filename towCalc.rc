@@ -1,6 +1,5 @@
 // Microsoft Visual C++ generated resource script.
 //
-#include "resource.h"
 
 #define APSTUDIO_READONLY_SYMBOLS
 /////////////////////////////////////////////////////////////////////////////
@@ -24,11 +23,6 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 //
 // TEXTINCLUDE
 //
-
-1 TEXTINCLUDE 
-BEGIN
-    "resource.h\0"
-END
 
 2 TEXTINCLUDE 
 BEGIN
@@ -68,7 +62,7 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "NewbRangerTom"
-            VALUE "FileDescription", "Towing Calc. inso by Ian @ Big Rock Media"
+            VALUE "FileDescription", "Towing Calc. insp by Ian @ Big Rock Media"
             VALUE "FileVersion", "1.0.0.2"
             VALUE "InternalName", "towCalc.exe"
             VALUE "LegalCopyright", "Open Source"
