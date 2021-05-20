@@ -1,4 +1,6 @@
 #pragma once
+
+// function prototypes for towCalcFunc cpp
 double towCap(double, double);
 
 double trkCurbWeight(double, double);

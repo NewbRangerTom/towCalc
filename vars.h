@@ -1,4 +1,5 @@
 #pragma once
+
 char trailer = 't'; // trailer menu variable - future version switch case or if/else to select with or without trailer.
 
 // Truck input variable - 6

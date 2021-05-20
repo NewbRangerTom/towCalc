@@ -8,8 +8,6 @@ Inspired by Ian @ BigRockMedia who made an excel spreadsheet calculator to calcu
 #include "towCalcFunc.h"
 #include "vars.h"
 
-//***************************************************************************************************************//
-
 int main()
 {
 	system("color 70");
