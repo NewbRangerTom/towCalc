@@ -98,6 +98,10 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# Additional files to ignore
+RCa14332
+RCa14548
+
 # Chutzpah Test files
 _Chutzpah*
 
